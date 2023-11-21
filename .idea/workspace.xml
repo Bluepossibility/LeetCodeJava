@@ -5,8 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="249e4656-ed94-44d0-8f31-c39510307578" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/src/Solutions/Solution2391.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/src/Solutions/Solution1814.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/src/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/src/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/src/Solutions/Solution1838.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/src/Solutions/Solution1838.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/src/Solution1887.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/src/Solutions/Solution1887.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,6 +91,11 @@
           <url>file://$PROJECT_DIR$/a/src/Main.java</url>
           <line>13</line>
           <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/src/Solutions/Solution1814.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="4" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
