@@ -1,9 +1,5 @@
 
-import TestData.TestData1743;
-
-import Solutions.*;
-
-import java.util.List;
+import Solutions.Mathmetics.Solution1688;
 
 public class Main {
     public static void main(String[] args) {
