@@ -1,4 +1,4 @@
-package Solutions;
+package Solutions.Design;
 
 import java.util.HashMap;
 import java.util.HashSet;
