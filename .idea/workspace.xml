@@ -4,17 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="249e4656-ed94-44d0-8f31-c39510307578" name="Changes" comment="">
-<<<<<<< HEAD
-      <change afterPath="$PROJECT_DIR$/src/src/Solutions/Design/Solution380.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/src/Solutions/DynamicProgramming/Solution446.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/src/Solutions/Graph/Solution1235.java" afterDir="false" />
-=======
-      <change afterPath="$PROJECT_DIR$/src/src/Solutions/Tree/Solution1026.java" afterDir="false" />
->>>>>>> ed71144042387fed98301bca81271e1852e17893
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/src/Solutions/Solution1496.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/src/Solutions/Design/Solution1496.java" afterDir="false" />
-    </list>
+    <list default="true" id="249e4656-ed94-44d0-8f31-c39510307578" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
