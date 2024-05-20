@@ -5,8 +5,41 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="249e4656-ed94-44d0-8f31-c39510307578" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/src/Solutions/Graph/Solution752.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/src/Comparator/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/src/Solutions/BitManipulation/Solution1863.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/src/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/src/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/src/Solutions/Solution1160.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/src/Solutions/Solution1266.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/src/Solutions/Solution1424.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/src/Solutions/Solution1561.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/src/Solutions/Solution1611.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/src/Solutions/Solution1630.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/src/Solutions/Solution1662.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/src/Solutions/Solution1685.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/src/Solutions/Solution1688.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/src/Solutions/Solution1727.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/src/Solutions/Solution1743.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/src/Solutions/Solution1814.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/src/Solutions/Solution1838.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/src/Solutions/Solution1846.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/src/Solutions/Solution1877.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/src/Solutions/Solution1887.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/src/Solutions/Solution191.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/src/Solutions/Solution1930.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/src/Solutions/Solution1980.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/src/Solutions/Solution2147.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/src/Solutions/Solution2264.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/src/Solutions/Solution2391.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/src/Solutions/Solution2642$Graph.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/src/Solutions/Solution2642.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/src/Solutions/Solution2785.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/src/Solutions/Solution346$MovingAverage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/src/Solutions/Solution346.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/src/Solutions/Solution815.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/src/Solutions/Solution935.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/src/Solutions/Design/Solution380.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,22 +70,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;openjdk-21&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/lihan/IdeaProjects/LeetCodeJava&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/lihan/IdeaProjects/LeetCodeJava/a/src/Main.java&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Application.Main.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "jdk.selected.JAVA_MODULE": "openjdk-21",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/lihan/IdeaProjects/LeetCodeJava",
+    "onboarding.tips.debug.path": "C:/Users/lihan/IdeaProjects/LeetCodeJava/a/src/Main.java",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
-}</component>
+}]]></component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
@@ -104,6 +138,11 @@
           <url>file://$PROJECT_DIR$/src/src/Solutions/Solution1688.java</url>
           <line>4</line>
           <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/src/Solutions/BitManipulation/Solution1863.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="12" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
