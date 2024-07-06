@@ -1,8 +1,7 @@
-
-import Solutions.Mathmetics.Solution1688;
+import Solutions.BitManipulation.Solution1863;
 
 public class Main {
     public static void main(String[] args) {
-        Solution1688.numberOfMatches(7);
+        Solution1863.subsetXORSum(new int[] {5,1,6});
     }
 }
